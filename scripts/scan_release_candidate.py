@@ -9,6 +9,18 @@ import sys
 from pathlib import Path
 
 BLOCKED_EXTENSIONS = {
+    ".csv",
+    ".doc",
+    ".docx",
+    ".html",
+    ".ipynb",
+    ".pdf",
+    ".ppt",
+    ".pptx",
+    ".xls",
+    ".xlsm",
+    ".xlsx",
+    ".zip",
     ".mp4",
     ".mov",
     ".m4a",
@@ -27,7 +39,6 @@ TEXT_EXTENSIONS = {
     ".py",
     ".yml",
     ".yaml",
-    ".html",
     ".css",
     ".ts",
     ".tsx",

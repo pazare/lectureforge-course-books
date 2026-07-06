@@ -36,6 +36,8 @@ This repository is not:
 - an official university, instructor, or platform publication;
 - a legal, FERPA, copyright, or institutional-policy clearance.
 
+Generated outputs belong in private release packages, not this repository.
+
 ## Workflow
 
 See [docs/WORKFLOW.md](docs/WORKFLOW.md) for the end-to-end process.

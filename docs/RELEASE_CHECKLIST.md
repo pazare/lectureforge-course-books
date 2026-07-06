@@ -8,6 +8,7 @@ Use this checklist before publishing any workflow, draft, or course book.
 
 - [ ] Contains only allowlisted workflow files.
 - [ ] Contains no generated course books.
+- [ ] Contains no Office, notebook, archive, CSV, or source-material bundles.
 - [ ] Contains no Canvas, Zoom, LMS, transcript, recording, or media exports.
 - [ ] Contains no student submissions, grades, rosters, or identifying comments.
 - [ ] Contains no professor-owned source excerpts.
