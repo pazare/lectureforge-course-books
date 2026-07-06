@@ -14,7 +14,7 @@ published.
 
 ## What This Is
 
-LectureForge treats a course book as a verification record:
+LectureForge treats a course-book draft package as a verification record:
 
 1. Stage only materials the instructor or teaching team is authorized to use.
 2. Convert source materials into a structured manifest.
