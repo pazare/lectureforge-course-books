@@ -2,7 +2,9 @@
 
 Latest local workflow material reviewed: July 2, 2026.
 
-Use this checklist before publishing any workflow, draft, or course book.
+Use this checklist before publishing workflow materials, sharing private drafts,
+or supporting a rights-holder decision to publish a derived course book
+elsewhere.
 
 ## Workflow Repository
 
@@ -25,9 +27,10 @@ Use this checklist before publishing any workflow, draft, or course book.
 - [ ] Known gaps are named.
 - [ ] Human review status is explicit.
 
-## Public Course Book
+## Rights-Holder Publication Decision
 
-- [ ] Rights holder approves publication.
+- [ ] Professor or rights holder chooses publication.
+- [ ] Publication venue and steward are explicit.
 - [ ] Student privacy review passes.
 - [ ] Instructor review passes.
 - [ ] Public license is explicit.
