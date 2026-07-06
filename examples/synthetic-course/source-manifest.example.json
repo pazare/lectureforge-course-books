@@ -1,0 +1,40 @@
+{
+  "schema": "lectureforge.source_manifest/1",
+  "course": {
+    "name": "Synthetic Methods Course",
+    "term": "Example Term",
+    "owner": "Example Instructor"
+  },
+  "generated_at": "2026-07-02T15:08:27-04:00",
+  "rights_note": "Synthetic example only. No real course material is included.",
+  "sources": [
+    {
+      "id": "slides-01",
+      "kind": "slides",
+      "path": "slides/unit-01.pdf",
+      "sha256": "example-sha256-not-a-real-file",
+      "rights_status": "synthetic",
+      "publishable": false,
+      "notes": "Shape example only."
+    },
+    {
+      "id": "notes-01",
+      "kind": "instructor_notes",
+      "path": "materials/unit-01-notes.md",
+      "sha256": "example-sha256-not-a-real-file",
+      "rights_status": "synthetic",
+      "publishable": false,
+      "notes": "Shape example only."
+    }
+  ],
+  "excluded": [
+    {
+      "kind": "student_submission",
+      "reason": "Student work is outside the workflow boundary."
+    },
+    {
+      "kind": "recording_video",
+      "reason": "Video is not part of the public workflow release."
+    }
+  ]
+}

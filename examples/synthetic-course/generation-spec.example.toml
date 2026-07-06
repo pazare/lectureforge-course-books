@@ -1,0 +1,27 @@
+# Synthetic example only. No real course material is included.
+
+[course]
+name = "Synthetic Methods Course"
+owner = "Example Instructor"
+term = "Example Term"
+
+[unit]
+id = "unit-01"
+title = "From Evidence To Model"
+date = "2026-07-02"
+
+[inputs]
+manifest = "source-manifest.example.json"
+allow_video = false
+allow_student_records = false
+
+[generation]
+mode = "private_draft"
+granularity = "topic"
+ir = "out/unit-01.notes.json"
+renderer = "typst"
+
+[verification]
+v_det_required = true
+v_llm_required = false
+v_human_required_for_publication = true
